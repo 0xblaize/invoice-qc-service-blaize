@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+typer[all]
+pdfplumber
+pydantic
+python-multipart
