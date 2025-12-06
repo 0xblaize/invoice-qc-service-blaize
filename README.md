@@ -107,3 +107,4 @@ Regex Tuning: AI suggested standard currency regex, but it failed on the mixed d
 Frontend: Used AI to generate the Tailwind CSS classes for the result table to ensure a clean, responsive design quickly.
 
 Demo Video
+https://drive.google.com/file/d/1h47wSP-dm0h9EGdBvtgwN0-8y81l5xHi/view?usp=sharing
